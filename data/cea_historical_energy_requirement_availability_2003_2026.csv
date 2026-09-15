@@ -1,4 +1,4 @@
-Year,Energy_Requirement_MU,Energy_Availability_MU,Energy_Surplus_Deficit_MU,Energy_Deficit_Pct,Energy_Req_Growth_Pct,Energy_Avail_Growth_Pct
+Financial_Year,Energy_Requirement_MU,Energy_Availability_MU,Energy_Surplus_Deficit_MU,Energy_Deficit_Pct,Growth_Energy_Requirement_Pct,Growth_Energy_Availability_Pct
 2003-04,559264.0,519398.0,-39866.0,-7.1,2.5,4.4
 2004-05,591373.0,548115.0,-43258.0,-7.3,5.7,5.5
 2005-06,631757.0,578819.0,-52938.0,-8.4,6.8,5.6

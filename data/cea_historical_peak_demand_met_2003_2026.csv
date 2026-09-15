@@ -1,4 +1,4 @@
-Year,Peak_Demand_MW,Peak_Met_MW,Peak_Surplus_Deficit_MW,Peak_Deficit_Pct,Peak_Demand_Growth_Pct,Peak_Met_Growth_Pct
+Financial_Year,Peak_Demand_MW,Peak_Met_MW,Peak_Surplus_Deficit_MW,Peak_Deficit_Pct,Growth_Peak_Demand_Pct,Growth_Peak_Met_Pct
 2003-04,84574.0,75066.0,-9508.0,-11.2,3.8,4.9
 2004-05,87906.0,77652.0,-10254.0,-11.7,3.9,3.4
 2005-06,93255.0,81792.0,-11463.0,-12.3,6.1,5.3
