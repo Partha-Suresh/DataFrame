@@ -1,0 +1,13 @@
+City Name,Ward No.,Year,Name of Electrical Substations,Address,Longitude,Latitude,Capacity (MVA)
+Aizawl,NA,Dec-19,New 132 kV Zuangtui Sub-Station,Zuangtui,88.5966,22.5446,2 x 25
+Aizawl,NA,Jul-01,132 kV Zuangtui Sub-Station,Zuangtui,88.5966,22.5446,4 x 12.5
+Aizawl,NA,Jul-02,132 kV Luangmual Sub-Station,Luangmual,92.7835,23.797,3 x 12.5
+Aizawl,NA,Dec-17,132 kV Melriat Sub-station,Melriat,92.7246,23.6466,1 x 12.5
+Aizawl,NA,NA,132 kV Sihhmui Sub-Station,Sihhmui,92.6363,23.8033,1 x 12.5
+Aizawl,NA,Jan-06,33 kV Mualpui Sub-Station,Mualpui,92.7219,23.7082,2 x 6.3
+Aizawl,NA,Jun-06,33 kV Chawnpui Sub-Station,Chawnpui,92.7065,23.7345,2 x 6.3
+Aizawl,NA,Jan-89,33 kV Tlangnuam Sub-Station,Tlangnuam,92.7145,23.7024,"1 x 6.3, 1 x 3.5"
+Aizawl,NA,Mar-92,33 kV Zuangtui (Lower) Sub-Station,Zuangtui,88.5966,22.5446,2 x 6.3
+Aizawl,NA,May-06,33 kV Luangmual ,Luangmual,92.7835,23.797,"1 x 6.3, 1 x 3.5"
+Aizawl,NA,May-16,33 kV Indoor Sub-Station,Electric Veng,92.7189,23.7373,2 x 6.3
+Aizawl,NA,Dec-14,33 kV Durtlang Sub-Station,Durtlang,92.7314,23.7586,"1 x 3.5, 1 x 2.5"

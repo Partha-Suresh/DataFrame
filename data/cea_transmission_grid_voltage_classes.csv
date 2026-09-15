@@ -1,0 +1,6 @@
+Voltage_Level,Line_Type,Voltage_kV,Typical_Application
++/- 800 kV HVDC,HVDC,800,Long-distance bulk power corridor
++/- 500 kV HVDC,HVDC,500,Inter-regional transmission corridor
+765 kV,Extra High Voltage AC,765,National & Regional grid backbone
+400 kV,High Voltage AC,400,Bulk substation transmission & DC primary interconnect
+220 kV,High Voltage AC,220,Sub-transmission & Industrial feeder interconnect

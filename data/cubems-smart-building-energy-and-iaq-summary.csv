@@ -1,0 +1,15 @@
+file,floor,year,rows,total_kw_minutes,light_kw_minutes,plug_kw_minutes,ac_kw_minutes,peak_kw
+cubems-smart-building-energy-and-iaq-data/2018Floor1.csv,1,2018,264960,30323000,16333500,5086570,8902940,4794.33
+cubems-smart-building-energy-and-iaq-data/2018Floor2.csv,2,2018,264960,41161700,1275570,438372,5727340,585.02
+cubems-smart-building-energy-and-iaq-data/2018Floor3.csv,3,2018,264960,43532700,1282840,291586,2853630,700.26
+cubems-smart-building-energy-and-iaq-data/2018Floor4.csv,4,2018,264960,46291600,1105870,542353,3038320,693.33
+cubems-smart-building-energy-and-iaq-data/2018Floor5.csv,5,2018,264960,49914800,1481030,452482,3449090,787.14
+cubems-smart-building-energy-and-iaq-data/2018Floor6.csv,6,2018,264960,50005200,1949590,452555,3165760,713.46
+cubems-smart-building-energy-and-iaq-data/2018Floor7.csv,7,2018,264960,52133800,1447900,168777,5972490,709.38
+cubems-smart-building-energy-and-iaq-data/2019Floor1.csv,1,2019,525600,53546600,27033900,9278430,17234300,292.18
+cubems-smart-building-energy-and-iaq-data/2019Floor2.csv,2,2019,525600,192792000,2241490,851081,11365900,679.12
+cubems-smart-building-energy-and-iaq-data/2019Floor3.csv,3,2019,525600,181827000,3199000,763746,6890760,727.56
+cubems-smart-building-energy-and-iaq-data/2019Floor4.csv,4,2019,525600,191846000,2302240,1133430,7764390,770.08
+cubems-smart-building-energy-and-iaq-data/2019Floor5.csv,5,2019,525600,170669000,2967110,890925,7225750,717.96
+cubems-smart-building-energy-and-iaq-data/2019Floor6.csv,6,2019,424169,145138000,3007440,692121,5644620,720.91
+cubems-smart-building-energy-and-iaq-data/2019Floor7.csv,7,2019,525600,195143000,3040100,385250,11625600,742.02
