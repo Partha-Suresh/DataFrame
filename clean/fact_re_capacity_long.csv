@@ -1,0 +1,281 @@
+state_id,state_name,region,fiscal_year,cumulative_re_capacity_mw
+IN-HR,Haryana,Northern Region,2017_18,510.49
+IN-HP,Himachal Pradesh,Northern Region,2017_18,10514.3
+IN-JK,Jammu and Kashmir,Northern Region,2017_18,3650.22
+IN-LA,Ladakh,Northern Region,2017_18,0.0
+IN-PB,Punjab,Northern Region,2017_18,2626.98
+IN-RJ,Rajasthan,Northern Region,2017_18,7289.36
+IN-UP,Uttar Pradesh,Northern Region,2017_18,3447.25
+IN-UT,Uttarakhand,Northern Region,2017_18,4379.83
+IN-CH,Chandigarh,Northern Region,2017_18,26.01
+IN-DL,Delhi,Northern Region,2017_18,123.03
+IN-AR,Arunachal Pradesh,Eastern Region,2017_18,517.0
+IN-AS,Assam,Eastern Region,2017_18,378.39
+IN-MN,Manipur,Eastern Region,2017_18,115.28
+IN-ML,Meghalaya,Eastern Region,2017_18,418.85
+IN-MZ,Mizoram,Eastern Region,2017_18,100.16
+IN-NL,Nagaland,Eastern Region,2017_18,108.51
+IN-TR,Tripura,Eastern Region,2017_18,24.53
+IN-CT,Chhattisgarh,Western Region,2017_18,785.42
+IN-GA,Goa,Western Region,2017_18,1.08
+IN-GJ,Gujarat,Western Region,2017_18,9339.45
+IN-MP,Madhya Pradesh,Western Region,2017_18,6445.13
+IN-MH,Maharashtra,Western Region,2017_18,11519.21
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western Region,2017_18,16.07
+IN-BR,Bihar,Eastern Region,2017_18,346.18
+IN-JH,Jharkhand,Eastern Region,2017_18,320.14
+IN-OR,Odisha,Eastern Region,2017_18,2364.94
+IN-SK,Sikkim,Eastern Region,2017_18,2222.98
+IN-WB,West Bengal,Eastern Region,2017_18,1747.46
+IN-AP,Andhra Pradesh,Southern Region,2017_18,8060.58
+IN-KA,Karnataka,Southern Region,2017_18,16241.6
+IN-KL,Kerala,Southern Region,2017_18,2282.06
+IN-TN,Tamil Nadu,Southern Region,2017_18,13451.7
+IN-TG,Telangana,Southern Region,2017_18,6507.48
+IN-LD,Lakshadweep,Southern Region,2017_18,3.14
+IN-PY,Puducherry,Southern Region,2017_18,0.34
+IN-HR,Haryana,Northern Region,2018_19,519.11
+IN-HP,Himachal Pradesh,Northern Region,2018_19,10707.75
+IN-JK,Jammu and Kashmir,Northern Region,2018_19,3664.1
+IN-LA,Ladakh,Northern Region,2018_19,0.0
+IN-PB,Punjab,Northern Region,2018_19,2522.38
+IN-RJ,Rajasthan,Northern Region,2018_19,8223.73
+IN-UP,Uttar Pradesh,Northern Region,2018_19,3739.46
+IN-UT,Uttarakhand,Northern Region,2018_19,4426.88
+IN-CH,Chandigarh,Northern Region,2018_19,35.52
+IN-DL,Delhi,Northern Region,2018_19,180.35
+IN-AR,Arunachal Pradesh,Eastern Region,2018_19,655.69
+IN-AS,Assam,Eastern Region,2018_19,414.58
+IN-MN,Manipur,Eastern Region,2018_19,118.66
+IN-ML,Meghalaya,Eastern Region,2018_19,372.18
+IN-MZ,Mizoram,Eastern Region,2018_19,101.2
+IN-NL,Nagaland,Eastern Region,2018_19,108.51
+IN-TR,Tripura,Eastern Region,2018_19,24.53
+IN-CT,Chhattisgarh,Western Region,2018_19,850.77
+IN-GA,Goa,Western Region,2018_19,4.09
+IN-GJ,Gujarat,Western Region,2018_19,10697.72
+IN-MP,Madhya Pradesh,Western Region,2018_19,6864.87
+IN-MH,Maharashtra,Western Region,2018_19,12421.69
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western Region,2018_19,19.93
+IN-BR,Bihar,Eastern Region,2018_19,352.23
+IN-JH,Jharkhand,Eastern Region,2018_19,267.87
+IN-OR,Odisha,Eastern Region,2018_19,2681.68
+IN-SK,Sikkim,Eastern Region,2018_19,2222.99
+IN-WB,West Bengal,Eastern Region,2018_19,1849.29
+IN-AP,Andhra Pradesh,Southern Region,2018_19,9560.02
+IN-KA,Karnataka,Southern Region,2018_19,17524.4
+IN-KL,Kerala,Southern Region,2018_19,2290.71
+IN-TN,Tamil Nadu,Southern Region,2018_19,14909.4
+IN-TG,Telangana,Southern Region,2018_19,6405.96
+IN-LD,Lakshadweep,Southern Region,2018_19,3.14
+IN-PY,Puducherry,Southern Region,2018_19,3.32
+IN-HR,Haryana,Northern Region,2019_20,547.19
+IN-HP,Himachal Pradesh,Northern Region,2019_20,10768.91
+IN-JK,Jammu and Kashmir,Northern Region,2019_20,3581.11
+IN-LA,Ladakh,Northern Region,2019_20,89.0
+IN-PB,Punjab,Northern Region,2019_20,2566.86
+IN-RJ,Rajasthan,Northern Region,2019_20,10134.97
+IN-UP,Uttar Pradesh,Northern Region,2019_20,3900.97
+IN-UT,Uttarakhand,Northern Region,2019_20,4437.96
+IN-CH,Chandigarh,Northern Region,2019_20,41.36
+IN-DL,Delhi,Northern Region,2019_20,218.62
+IN-AR,Arunachal Pradesh,Eastern Region,2019_20,955.98
+IN-AS,Assam,Eastern Region,2019_20,433.86
+IN-MN,Manipur,Eastern Region,2019_20,120.43
+IN-ML,Meghalaya,Eastern Region,2019_20,372.18
+IN-MZ,Mizoram,Eastern Region,2019_20,102.52
+IN-NL,Nagaland,Eastern Region,2019_20,108.51
+IN-TR,Tripura,Eastern Region,2019_20,28.91
+IN-CT,Chhattisgarh,Western Region,2019_20,864.89
+IN-GA,Goa,Western Region,2019_20,5.29
+IN-GJ,Gujarat,Western Region,2019_20,12683.77
+IN-MP,Madhya Pradesh,Western Region,2019_20,7285.75
+IN-MH,Maharashtra,Western Region,2019_20,12822.27
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western Region,2019_20,25.32
+IN-BR,Bihar,Eastern Region,2019_20,365.09
+IN-JH,Jharkhand,Eastern Region,2019_20,273.8
+IN-OR,Odisha,Eastern Region,2019_20,2686.38
+IN-SK,Sikkim,Eastern Region,2019_20,2223.05
+IN-WB,West Bengal,Eastern Region,2019_20,1888.03
+IN-AP,Andhra Pradesh,Southern Region,2019_20,10091.4
+IN-KA,Karnataka,Southern Region,2019_20,18918.1
+IN-KL,Kerala,Southern Region,2019_20,2304.35
+IN-TN,Tamil Nadu,Southern Region,2019_20,16588.8
+IN-TG,Telangana,Southern Region,2019_20,6442.85
+IN-LD,Lakshadweep,Southern Region,2019_20,3.27
+IN-PY,Puducherry,Southern Region,2019_20,5.69
+IN-HR,Haryana,Northern Region,2020_21,762.51
+IN-HP,Himachal Pradesh,Northern Region,2020_21,10916.61
+IN-JK,Jammu and Kashmir,Northern Region,2020_21,3588.11
+IN-LA,Ladakh,Northern Region,2020_21,89.0
+IN-PB,Punjab,Northern Region,2020_21,2743.8
+IN-RJ,Rajasthan,Northern Region,2020_21,10812.35
+IN-UP,Uttar Pradesh,Northern Region,2020_21,4563.07
+IN-UT,Uttarakhand,Northern Region,2020_21,4589.24
+IN-CH,Chandigarh,Northern Region,2020_21,45.97
+IN-DL,Delhi,Northern Region,2020_21,246.43
+IN-AR,Arunachal Pradesh,Eastern Region,2020_21,1256.27
+IN-AS,Assam,Eastern Region,2020_21,437.67
+IN-MN,Manipur,Eastern Region,2020_21,121.84
+IN-ML,Meghalaya,Eastern Region,2020_21,372.18
+IN-MZ,Mizoram,Eastern Region,2020_21,103.45
+IN-NL,Nagaland,Eastern Region,2020_21,108.58
+IN-TR,Tripura,Eastern Region,2020_21,29.57
+IN-CT,Chhattisgarh,Western Region,2020_21,886.52
+IN-GA,Goa,Western Region,2020_21,7.95
+IN-GJ,Gujarat,Western Region,2020_21,15204.25
+IN-MP,Madhya Pradesh,Western Region,2020_21,7526.97
+IN-MH,Maharashtra,Western Region,2020_21,13382.85
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western Region,2020_21,46.01
+IN-BR,Bihar,Eastern Region,2020_21,376.63
+IN-JH,Jharkhand,Eastern Region,2020_21,288.21
+IN-OR,Odisha,Eastern Region,2020_21,2715.63
+IN-SK,Sikkim,Eastern Region,2020_21,2223.05
+IN-WB,West Bengal,Eastern Region,2020_21,1923.44
+IN-AP,Andhra Pradesh,Southern Region,2020_21,10696.1
+IN-KA,Karnataka,Southern Region,2020_21,19149.3
+IN-KL,Kerala,Southern Region,2020_21,2428.92
+IN-TN,Tamil Nadu,Southern Region,2020_21,17476.7
+IN-TG,Telangana,Southern Region,2020_21,6796.59
+IN-LD,Lakshadweep,Southern Region,2020_21,3.27
+IN-PY,Puducherry,Southern Region,2020_21,9.51
+IN-HR,Haryana,Northern Region,2021_22,1242.13
+IN-HP,Himachal Pradesh,Northern Region,2021_22,11303.49
+IN-JK,Jammu and Kashmir,Northern Region,2021_22,3551.61
+IN-LA,Ladakh,Northern Region,2021_22,136.44
+IN-PB,Punjab,Northern Region,2021_22,2864.12
+IN-RJ,Rajasthan,Northern Region,2021_22,17451.62
+IN-UP,Uttar Pradesh,Northern Region,2021_22,4985.12
+IN-UT,Uttarakhand,Northern Region,2021_22,4787.15
+IN-CH,Chandigarh,Northern Region,2021_22,55.17
+IN-DL,Delhi,Northern Region,2021_22,270.12
+IN-AR,Arunachal Pradesh,Eastern Region,2021_22,1257.34
+IN-AS,Assam,Eastern Region,2021_22,504.05
+IN-MN,Manipur,Eastern Region,2021_22,122.7
+IN-ML,Meghalaya,Eastern Region,2021_22,372.48
+IN-MZ,Mizoram,Eastern Region,2021_22,104.37
+IN-NL,Nagaland,Eastern Region,2021_22,108.71
+IN-TR,Tripura,Eastern Region,2021_22,30.9
+IN-CT,Chhattisgarh,Western Region,2021_22,989.08
+IN-GA,Goa,Western Region,2021_22,20.34
+IN-GJ,Gujarat,Western Region,2021_22,18577.9
+IN-MP,Madhya Pradesh,Western Region,2021_22,7703.88
+IN-MH,Maharashtra,Western Region,2021_22,13704.08
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western Region,2021_22,46.18
+IN-BR,Bihar,Eastern Region,2021_22,387.35
+IN-JH,Jharkhand,Eastern Region,2021_22,307.14
+IN-OR,Odisha,Eastern Region,2021_22,2771.64
+IN-SK,Sikkim,Eastern Region,2021_22,2338.79
+IN-WB,West Bengal,Eastern Region,2021_22,1928.15
+IN-AP,Andhra Pradesh,Southern Region,2021_22,10821.6
+IN-KA,Karnataka,Southern Region,2021_22,19593.8
+IN-KL,Kerala,Southern Region,2021_22,2527.2
+IN-TN,Tamil Nadu,Southern Region,2021_22,18277.5
+IN-TG,Telangana,Southern Region,2021_22,7364.79
+IN-LD,Lakshadweep,Southern Region,2021_22,3.27
+IN-PY,Puducherry,Southern Region,2021_22,13.69
+IN-HR,Haryana,Northern Region,2022_23,1362.09
+IN-HP,Himachal Pradesh,Northern Region,2022_23,11330.42
+IN-JK,Jammu and Kashmir,Northern Region,2022_23,3556.12
+IN-LA,Ladakh,Northern Region,2022_23,137.79
+IN-PB,Punjab,Northern Region,2022_23,2961.93
+IN-RJ,Rajasthan,Northern Region,2022_23,22809.05
+IN-UP,Uttar Pradesh,Northern Region,2022_23,5282.65
+IN-UT,Uttarakhand,Northern Region,2022_23,4909.14
+IN-CH,Chandigarh,Northern Region,2022_23,58.69
+IN-DL,Delhi,Northern Region,2022_23,302.26
+IN-AR,Arunachal Pradesh,Eastern Region,2022_23,1259.75
+IN-AS,Assam,Eastern Region,2022_23,534.04
+IN-MN,Manipur,Eastern Region,2022_23,122.73
+IN-ML,Meghalaya,Eastern Region,2022_23,372.48
+IN-MZ,Mizoram,Eastern Region,2022_23,133.49
+IN-NL,Nagaland,Eastern Region,2022_23,110.71
+IN-TR,Tripura,Eastern Region,2022_23,33.61
+IN-CT,Chhattisgarh,Western Region,2022_23,1419.82
+IN-GA,Goa,Western Region,2022_23,26.88
+IN-GJ,Gujarat,Western Region,2022_23,21425.85
+IN-MP,Madhya Pradesh,Western Region,2022_23,8140.08
+IN-MH,Maharashtra,Western Region,2022_23,15804.5
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western Region,2022_23,46.47
+IN-BR,Bihar,Eastern Region,2022_23,389.6
+IN-JH,Jharkhand,Eastern Region,2022_23,324.19
+IN-OR,Odisha,Eastern Region,2022_23,2782.57
+IN-SK,Sikkim,Eastern Region,2022_23,2341.8
+IN-WB,West Bengal,Eastern Region,2022_23,1962.77
+IN-AP,Andhra Pradesh,Southern Region,2022_23,10970.2
+IN-KA,Karnataka,Southern Region,2022_23,20408.4
+IN-KL,Kerala,Southern Region,2022_23,2957.1
+IN-TN,Tamil Nadu,Southern Region,2022_23,20098.6
+IN-TG,Telangana,Southern Region,2022_23,7510.97
+IN-LD,Lakshadweep,Southern Region,2022_23,3.27
+IN-PY,Puducherry,Southern Region,2022_23,35.53
+IN-HR,Haryana,Northern Region,2023_24,1832.92
+IN-HP,Himachal Pradesh,Northern Region,2023_24,11356.16
+IN-JK,Jammu and Kashmir,Northern Region,2023_24,3595.37
+IN-LA,Ladakh,Northern Region,2023_24,139.79
+IN-PB,Punjab,Northern Region,2023_24,3163.92
+IN-RJ,Rajasthan,Northern Region,2023_24,27103.89
+IN-UP,Uttar Pradesh,Northern Region,2023_24,5697.17
+IN-UT,Uttarakhand,Northern Region,2023_24,4971.94
+IN-CH,Chandigarh,Northern Region,2023_24,65.52
+IN-DL,Delhi,Northern Region,2023_24,340.51
+IN-AR,Arunachal Pradesh,Eastern Region,2023_24,1259.9
+IN-AS,Assam,Eastern Region,2023_24,542.29
+IN-MN,Manipur,Eastern Region,2023_24,123.49
+IN-ML,Meghalaya,Eastern Region,2023_24,395.07
+IN-MZ,Mizoram,Eastern Region,2023_24,135.78
+IN-NL,Nagaland,Eastern Region,2023_24,110.84
+IN-TR,Tripura,Eastern Region,2023_24,34.47
+IN-CT,Chhattisgarh,Western Region,2023_24,1683.39
+IN-GA,Goa,Western Region,2023_24,45.47
+IN-GJ,Gujarat,Western Region,2023_24,27461.72
+IN-MP,Madhya Pradesh,Western Region,2023_24,9333.37
+IN-MH,Maharashtra,Western Region,2023_24,17530.12
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western Region,2023_24,46.47
+IN-BR,Bihar,Eastern Region,2023_24,450.15
+IN-JH,Jharkhand,Eastern Region,2023_24,395.55
+IN-OR,Odisha,Eastern Region,2023_24,2825.03
+IN-SK,Sikkim,Eastern Region,2023_24,2344.15
+IN-WB,West Bengal,Eastern Region,2023_24,1982.13
+IN-AP,Andhra Pradesh,Southern Region,2023_24,11029.3
+IN-KA,Karnataka,Southern Region,2023_24,21441.9
+IN-KL,Kerala,Southern Region,2023_24,3229.46
+IN-TN,Tamil Nadu,Southern Region,2023_24,22161.6
+IN-TG,Telangana,Southern Region,2023_24,7604.4
+IN-LD,Lakshadweep,Southern Region,2023_24,4.97
+IN-PY,Puducherry,Southern Region,2023_24,49.91
+IN-HR,Haryana,Northern Region,2024_25,2449.94
+IN-HP,Himachal Pradesh,Northern Region,2024_25,12196.18
+IN-JK,Jammu and Kashmir,Northern Region,2024_25,3624.42
+IN-LA,Ladakh,Northern Region,2024_25,142.59
+IN-PB,Punjab,Northern Region,2024_25,3270.42
+IN-RJ,Rajasthan,Northern Region,2024_25,34136.34
+IN-UP,Uttar Pradesh,Northern Region,2024_25,6223.91
+IN-UT,Uttarakhand,Northern Region,2024_25,5010.77
+IN-CH,Chandigarh,Northern Region,2024_25,78.85
+IN-DL,Delhi,Northern Region,2024_25,397.4
+IN-AR,Arunachal Pradesh,Eastern Region,2024_25,1270.46
+IN-AS,Assam,Eastern Region,2024_25,582.65
+IN-MN,Manipur,Eastern Region,2024_25,124.24
+IN-ML,Meghalaya,Eastern Region,2024_25,395.11
+IN-MZ,Mizoram,Eastern Region,2024_25,135.86
+IN-NL,Nagaland,Eastern Region,2024_25,110.84
+IN-TR,Tripura,Eastern Region,2024_25,37.25
+IN-CT,Chhattisgarh,Western Region,2024_25,1828.46
+IN-GA,Goa,Western Region,2024_25,58.43
+IN-GJ,Gujarat,Western Region,2024_25,33393.03
+IN-MP,Madhya Pradesh,Western Region,2024_25,10827.7
+IN-MH,Maharashtra,Western Region,2024_25,22401.46
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western Region,2024_25,51.87
+IN-BR,Bihar,Eastern Region,2024_25,539.26
+IN-JH,Jharkhand,Eastern Region,2024_25,434.06
+IN-OR,Odisha,Eastern Region,2024_25,2958.84
+IN-SK,Sikkim,Eastern Region,2024_25,2344.67
+IN-WB,West Bengal,Eastern Region,2024_25,2112.18
+IN-AP,Andhra Pradesh,Southern Region,2024_25,12114.48
+IN-KA,Karnataka,Southern Region,2024_25,23917.64
+IN-KL,Kerala,Southern Region,2024_25,3853.38
+IN-TN,Tamil Nadu,Southern Region,2024_25,25241.36
+IN-TG,Telangana,Southern Region,2024_25,7688.34
+IN-LD,Lakshadweep,Southern Region,2024_25,4.97
+IN-PY,Puducherry,Southern Region,2024_25,54.51
