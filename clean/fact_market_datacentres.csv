@@ -1,0 +1,35 @@
+market,state_id,state_name,data_center_count
+Mumbai,IN-MH,Maharashtra,60
+Chennai,IN-TN,Tamil Nadu,33
+Hyderabad,IN-TG,Telangana,36
+Navi Mumbai,IN-MH,Maharashtra,25
+Bangalore,IN-KA,Karnataka,31
+Noida,IN-UP,Uttar Pradesh,19
+Pune,IN-MH,Maharashtra,17
+New Delhi,IN-DL,Delhi,12
+Ahmedabad,IN-GJ,Gujarat,11
+Kolkata,IN-WB,West Bengal,8
+Cochin,IN-KL,Kerala,7
+Visakhapatnam,IN-AP,Andhra Pradesh,6
+Jaipur,IN-RJ,Rajasthan,5
+Gurgaon,IN-HR,Haryana,5
+Coimbatore,IN-TN,Tamil Nadu,3
+Bhubaneswar,IN-OR,Odisha,3
+Indore,IN-MP,Madhya Pradesh,3
+Raipur,IN-CT,Chhattisgarh,2
+Lucknow,IN-UP,Uttar Pradesh,2
+Nashik,IN-MH,Maharashtra,2
+Ludhiana,IN-PB,Punjab,2
+Rohtak,IN-HR,Haryana,1
+Jamnagar,IN-GJ,Gujarat,1
+Panchkula,IN-HR,Haryana,1
+Agartala,IN-TR,Tripura,1
+Guntur,IN-AP,Andhra Pradesh,1
+Mohali,IN-PB,Punjab,1
+Alwar,IN-RJ,Rajasthan,1
+Madurai,IN-TN,Tamil Nadu,1
+Pondicherry,IN-PY,Puducherry,1
+Patna,IN-BR,Bihar,1
+Bhopal,IN-MP,Madhya Pradesh,1
+Faridabad,IN-HR,Haryana,1
+Murshidabad,IN-WB,West Bengal,1

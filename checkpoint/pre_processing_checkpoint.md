@@ -49,3 +49,26 @@ fact_re_capacity_long.csv
 mnre_features.csv
 
 State + MNRE preprocessing is essentially complete.
+
+MNRE Bio/Solar Breakdown
+- Inspected mnre_bio_and_solar_breakdown_2025.csv.
+- Dataset initially had 41 rows × 9 columns.
+- Removed report-level rows:
+  - Others
+  - Total (MW)
+- Standardized split/variant state names:
+  - Andaman & + Nicobar Islands → Andaman and Nicobar Islands
+  - Dadra & Nagar + Haveli / + Daman & Diu → Dadra and Nagar Haveli and Daman and Diu
+  - Jammu & Kashmir → Jammu and Kashmir
+  - Pondicherry → Puducherry
+- Aggregated the split state/UT rows, resulting in 36 canonical states/UTs.
+- Added canonical state_id using dim_state.
+- Created derived totals:
+  - biomass_breakdown_total_mw
+  - waste_to_energy_total_mw
+  - solar_breakdown_total_mw
+- Standardized all feature names to lowercase.
+- Kept the detailed biomass, waste-to-energy, and solar components rather than collapsing them.
+- Final dataset: 36 × 13.
+- Saved as:
+fact_re_bio_solar_breakdown_2025.csv
