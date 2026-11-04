@@ -1,0 +1,7 @@
+model_name,r2_score,rmse,mae,pearson_r,spearman_rho
+Ridge Baseline,0.6338,10.863,8.131,0.8641,0.907
+Random Forest (ML),0.9183,5.131,4.483,0.9649,0.9303
+XGBoost (ML),0.8841,6.111,5.51,0.9447,0.907
+LightGBM (ML),0.9236,4.96,4.083,0.9618,0.9494
+Deep Neural Net MLP (DL),0.8471,7.018,5.405,0.9257,0.8961
+Hybrid Super-Learner (ML + DL),0.9222,5.007,4.217,0.9634,0.9255

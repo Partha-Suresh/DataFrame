@@ -1,0 +1,37 @@
+state_id,state_name,region,is_enterprise_feasible,is_hyperscale_feasible,c1_grid_viable,c2_renewable_viable,c3_water_viable,c4_grid_connected,feasibility_status,substation_count_total,substation_count_400kv,substation_count_765kv_plus,transformation_capacity_total_mva,renewable_headroom_mw,waterbody_count_total,gw_depletion_trend_mbgl_per_yr,land_cost_avg_rs_acre,dc_count_state
+IN-PY,Puducherry,Southern,0,0,0,1,1,1,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV)",1.0,1.0,0.0,500.0,554.39,107,-0.0828541434755816,,1
+IN-MH,Maharashtra,Western,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,281.0,44.0,8.0,62076.0,648622.23,40106,-0.2538926339616085,1800000.0,104
+IN-NL,Nagaland,Northeastern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),5.0,1.0,0.0,1310.0,641.1999999999999,462,0.0472778975026239,,0
+IN-LD,Lakshadweep,,0,0,0,0,1,0,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV); Failed C2 (RE Capacity <50 MW or Negative Headroom); Failed C4 (Offshore Island / Non-Synchronous Grid)",0.0,0.0,0.0,0.0,27.42,2,,,0
+IN-UP,Uttar Pradesh,Northern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,499.0,104.0,25.0,120915.0,100817.44,21574,0.0447203032724101,1200000.0,21
+IN-TN,Tamil Nadu,Southern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,197.0,52.0,10.0,58550.0,279219.74000000005,73575,-0.3509011897799516,2500000.0,37
+IN-CT,Chhattisgarh,Central,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,51.0,16.0,13.0,33130.0,130167.70999999998,104447,-0.0973767698483123,,2
+IN-GJ,Gujarat,Western,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,308.0,49.0,24.0,116935.0,394561.38,16273,-0.2883792586778729,1500000.0,12
+IN-DL,Delhi,Northern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),36.0,8.0,0.0,9940.0,152.82000000000005,53,-0.138481090511169,,12
+IN-SK,Sikkim,Northeastern,0,0,0,1,1,1,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV)",2.0,0.0,0.0,300.0,4232.16,261,,,0
+IN-TR,Tripura,Northeastern,0,0,1,0,1,1,Failed C2 (RE Capacity <50 MW or Negative Headroom),2.0,2.0,0.0,1260.0,9149.81,199,0.0003764956932933,,1
+IN-WB,West Bengal,Eastern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,61.0,20.0,2.0,22260.0,24854.21,104357,0.018658301293395,,9
+IN-OR,Odisha,Eastern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,83.0,12.0,4.0,20692.0,152053.93,90888,-0.0591744751548176,,3
+IN-BR,Bihar,Eastern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,93.0,44.0,7.0,46955.0,38443.27999999999,61370,-0.0741741829763471,1000000.0,1
+IN-LA,Ladakh,Northern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),3.0,0.0,1.0,1675.0,8415.05,258,,,0
+IN-RJ,Rajasthan,Northern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,203.0,73.0,33.0,121400.0,1080657.3199999998,82075,0.5703618321336638,800000.0,6
+IN-TG,Telangana,Southern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,123.0,39.0,4.0,35939.0,190679.93,17088,-0.2616887361910483,1500000.0,36
+IN-AP,Andhra Pradesh,Southern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,145.0,54.0,8.0,57740.0,415818.0500000001,36733,-0.0099159843224137,,7
+IN-MZ,Mizoram,Northeastern,0,0,0,1,1,1,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV)",0.0,0.0,0.0,0.0,2574.85,509,1.869999999999368,,0
+IN-AR,Arunachal Pradesh,Northeastern,0,0,0,1,1,1,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV)",1.0,0.0,0.0,320.0,51920.44,1275,-0.1294311025185622,,0
+IN-ML,Meghalaya,Northeastern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),4.0,0.0,0.0,1060.0,16658.58,125,-0.0983736806389248,,0
+IN-JH,Jharkhand,Eastern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,30.0,13.0,2.0,13265.0,52087.5,38912,-0.1281383766373566,,0
+IN-AS,Assam,Northeastern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),22.0,9.0,0.0,5920.0,20216.36,14636,-0.0292784371654995,,0
+IN-MN,Manipur,Northeastern,0,0,0,1,1,1,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV)",3.0,3.0,0.0,945.0,2946.9400000000005,1590,-0.1524999999999489,,0
+IN-KA,Karnataka,Southern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,136.0,31.0,1.0,40595.0,380309.22,53378,-0.2456122905206846,2000000.0,31
+IN-UT,Uttarakhand,Northern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),15.0,5.0,2.0,6595.0,492.329999999999,784,2.472210988769037,,0
+IN-DH,Dadra and Nagar Haveli and Daman and Diu,Western,0,0,0,1,1,1,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV)",1.0,1.0,0.0,500.0,446.44,33,-0.1058094044255756,,0
+IN-MP,Madhya Pradesh,Central,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,169.0,39.0,5.0,43785.0,369723.32,65940,-0.1532948613502826,500000.0,4
+IN-GA,Goa,Western,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),3.0,1.0,0.0,1126.0,6745.59,391,0.060482400661365,,0
+IN-KL,Kerala,Southern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),23.0,6.0,0.0,5306.0,15070.64,11460,-0.0720245672100665,5000000.0,7
+IN-CH,Chandigarh,Northern,0,0,0,0,0,1,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV); Failed C2 (RE Capacity <50 MW or Negative Headroom); Failed C3 (Water Resource Deficit / Extreme Depletion)",1.0,0.0,0.0,320.0,-56.28,1,0.4191843434342318,,0
+IN-AN,Andaman and Nicobar Islands,,0,0,0,0,1,0,"Failed C1 (Bulk Grid <1,000 MVA or <220 kV); Failed C2 (RE Capacity <50 MW or Negative Headroom); Failed C4 (Offshore Island / Non-Synchronous Grid)",0.0,0.0,0.0,0.0,1829.46,33,-0.0250423112627168,,0
+IN-HP,Himachal Pradesh,Northern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),23.0,7.0,0.0,5452.0,31379.47,217,1.0393141742094756,,0
+IN-JK,Jammu and Kashmir,Northern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),16.0,4.0,0.0,3470.0,19726.29,589,0.3074004232473943,,0
+IN-PB,Punjab,Northern,1,1,1,1,1,1,PASS: Hyperscale & Enterprise Feasible,133.0,21.0,0.0,21225.0,11683.29,5755,0.3767317026998895,4000000.0,3
+IN-HR,Haryana,Northern,1,0,1,1,1,1,PASS: Enterprise / Edge Feasible (Sub-hyperscale grid/headroom scale),173.0,17.0,1.0,27895.0,6434.01,5726,0.040256177028939,3500000.0,8
